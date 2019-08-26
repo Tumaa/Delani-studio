@@ -33,13 +33,13 @@ $('.card').hover(function(event){
   });
 
 
-  // //    reset my form
-  // $("button").on('click', function () {
-  //   $Lorem('form').each(function () {
-  //     this.reset();
-  //   });
-  // });
-  // });
+  //    reset my form
+  $("button").on('click', function () {
+    $Lorem('form').each(function () {
+      this.reset();
+    });
+  });
+  });
 
 
 
