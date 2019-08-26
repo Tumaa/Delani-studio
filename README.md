@@ -1,4 +1,4 @@
-## DELANI STUDIO
+<!-- ## DELANI STUDIO
 
 ## By Fatuma ali
 
@@ -36,4 +36,4 @@ License
 The project is under MIT licence Copyright (c) {2019} Fa tuma ali
 
 
-  
+   -->
