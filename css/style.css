@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
 .sec-1{
-    background-image: url("./images/h_img.jpg");font-family: 'Satisfy', cursive;
+    background-image: url("../images/h_img.jpg");font-family: 'Satisfy', cursive;
     color: white;
     height: 97vh;
     text-align: center;
@@ -31,7 +31,7 @@
        height: 40vh;
   }
   .sec-3{
-      background-image: url("./images/s_image.jpg");
+      background-image: url("../images/s_image.jpg");
       text-align: center;
       padding-top: 14vh;
       height: 50vh;
