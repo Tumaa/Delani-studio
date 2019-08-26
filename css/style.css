@@ -1,0 +1,181 @@
+
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
+.sec-1{
+    background-image: url("../images/h_img.jpg");font-family: 'Satisfy', cursive;
+    color: white;
+    height: 97vh;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Hepta Slab', serif;
+    font-size: 3vh;
+
+}
+.log{
+    padding-top: 14%;
+}
+
+.mouse{
+    padding-top:11%;
+
+}
+  .sec-2{
+      text-align: center;
+      padding-top: 2%;
+      font-family: 'Fjalla One', sans-serif;
+      font-size: 2vh;
+       background-color: white;
+       height: 40vh;
+  }
+  .sec-3{
+      background-image: url("../images/s_image.jpg");
+      text-align: center;
+      padding-top: 14vh;
+      height: 50vh;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+      color: white;
+      font-size: 3vh;
+      color: white;
+
+  }
+  
+  
+  .toggle{
+      text-align: center;
+      padding-top: 3vh;
+      height: 40vh;
+      font-size: 2vh;
+
+  }
+
+  .row{
+      padding-top: 3vh;
+  }
+
+  .show-1 ,.show-2,.show-3{
+      display: none;
+  }
+
+
+
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  /* .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  } */
+  
+   
+   /* footer{
+      text-align: center;
+      margin-top: 5%;
+   } */
+   .container{
+     position: relative;
+   }
+ 
+   
+  body{
+    overflow-x: hidden;
+  
+  }
+  
+#contact {
+    background-image: url('../images/c_image.jpg');
+    background-size: cover;
+    background-position: cover;
+    margin-top: 50px;
+ }
+ .form-cont input {
+    width: 49%;
+    background: transparent;
+    color: white;
+ }
+ .form-cont textarea {
+    margin-top: 10px;
+    width: 100%;
+    background: transparent;
+    color: white;
+ }
+ .form-cont {
+    text-align: center;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+  
+    transform: translate(-50%);
+ }
+ ::placeholder{
+    font-size: 10px;
+    color: white;
+ }
+ #contact h1{
+    color: white;
+ }
+ .con {
+    padding-bottom: 30px;
+ }
+
+
+ .card:hover img {
+  transform: scale(1.2);
+  transition: all 0.3s ease;
+}
+.card-1 {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  background: rgba(0, 0, 0, 0.582);
+  cursor: pointer;
+  display: none;
+  transition: all 0.5s ease;
+}
+.card {
+  margin: 10px 0;
+  position: relative;
+  overflow: hidden;
+}
+/* .card-deck {
+  padding: 1% 4%;
+} */
+.port {
+  padding: 5% 0;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.301);
+  padding: 50px 10px;
+  font-weight: 100%;
+  padding-top: 30px;
+  border: 4px solid whitesmoke;
+  font-size: 1.1em;
+  line-height: 90%;
+  margin: 20% 5%;
+  overflow: hidden;
+  letter-spacing: 2px;
+  text-align: center;
+  font-family: 'Carter One', cursive;
+}
+.foter{
+  margin-top: 10%;
+  text-align: center;
+}
+.tumaa{
+  text-align: center;
+  margin-top: 5%;
+}
+
+
