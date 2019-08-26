@@ -25,21 +25,21 @@ $(".card").hover(function () {
 
 
 
-// $('.card').hover(function(event){
-//   $("form#myForm").submit(function (isiolo) {
-//     var client = $('#name').val();
-//     alert(' Dear  esteemed ' + client + ' we have received your message successful. Feel free to reach out to us anytime');
-//     isiolo.preventDefault();
-//   });
+$('.card').hover(function(event){
+  $("form#myForm").submit(function (isiolo) {
+    var client = $('#name').val();
+    alert(' Dear  esteemed ' + client + ' we have received your message successful. Feel free to reach out to us anytime');
+    isiolo.preventDefault();
+  });
 
 
-//   //    reset my form
-//   $("button").on('click', function () {
-//     $Lorem('form').each(function () {
-//       this.reset();
-//     });
-//   });
-//   });
+  // //    reset my form
+  // $("button").on('click', function () {
+  //   $Lorem('form').each(function () {
+  //     this.reset();
+  //   });
+  // });
+  // });
 
 
 
