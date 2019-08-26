@@ -1,18 +1,18 @@
-// $(document).ready(function () {
-//   $("#clickable1").click(function () {
-//     $(".hide-1").slideToggle(1200);
-//     $(".show-1").slideToggle(1200);
-//   });
+$(document).ready(function () {
+  $("#clickable1").click(function () {
+    $(".hide-1").slideToggle(1200);
+    $(".show-1").slideToggle(1200);
+  });
   
-//   $("#clickable2").click(function () {
-//     $(".hide-2").slideToggle(1200);
-//     $(".show-2").slideToggle(1200);
-//   });
+  $("#clickable2").click(function () {
+    $(".hide-2").slideToggle(1200);
+    $(".show-2").slideToggle(1200);
+  });
   
-//   $("#clickable3").click(function () {
-//     $(".hide-3").slideToggle(1200);
-//     $(".show-3").slideToggle(1200);
-//   });
+  $("#clickable3").click(function () {
+    $(".hide-3").slideToggle(1200);
+    $(".show-3").slideToggle(1200);
+  });
  
 
  
