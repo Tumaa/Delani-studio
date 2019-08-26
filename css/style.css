@@ -1,9 +1,9 @@
-
+/* 
 @import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
 .sec-1{
-    background-image: url("../images/h_img.jpg");font-family: 'Satisfy', cursive;
+    background-image: url("./images/h_img.jpg");font-family: 'Satisfy', cursive;
     color: white;
     height: 97vh;
     text-align: center;
@@ -31,7 +31,7 @@
        height: 40vh;
   }
   .sec-3{
-      background-image: url("../images/s_image.jpg");
+      background-image: url("./images/s_image.jpg");
       text-align: center;
       padding-top: 14vh;
       height: 50vh;
@@ -72,18 +72,7 @@
     padding: 5px;
   }
   
-  /* Clearfix (clear floats) */
-  /* .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  } */
-  
-   
-   /* footer{
-      text-align: center;
-      margin-top: 5%;
-   } */
+
    .container{
      position: relative;
    }
@@ -150,9 +139,7 @@
   position: relative;
   overflow: hidden;
 }
-/* .card-deck {
-  padding: 1% 4%;
-} */
+
 .port {
   padding: 5% 0;
   color: white;
@@ -178,4 +165,4 @@
   margin-top: 5%;
 }
 
-
+ */
