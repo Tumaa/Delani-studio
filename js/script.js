@@ -25,32 +25,18 @@ $(".card").hover(function () {
 
 
 
-$('.card').hover(function(event){
-  $("form#myForm").submit(function (isiolo) {
-    var client = $('#name').val();
-    alert(' Dear  esteemed ' + client + ' we have received your message successful. Feel free to reach out to us anytime');
-    isiolo.preventDefault();
-  });
+ function validate(){
 
-
-  //    reset my form
-  $("button").on('click', function () {
-    $Lorem('form').each(function () {
-      this.reset();
-    });
-  });
-  });
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
+  var name = document.getElementById("name").value;
+  var email = document.getElementById("email").value;
+  var text = document.getElementById("mess").value;
+   if(name == ""){
+     alert("Insert name!");
+   }else if(email == ""){
+     alert("Insert email!");
+   }else if(text ==""){
+     alert("There is no message!")
+   }else{
+     alert("we have recieved you message dear " + name + ", " + " we will get back to you");
+   }
+ }
