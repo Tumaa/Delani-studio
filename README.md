@@ -15,7 +15,7 @@
 ## Installing
    To view the website go to click here
 
-* Step 1: Clone this repo :git clone (https://github.com/tumaa/Delani-studio-)
+* Step 1: Clone this repo :git clone (https://github.com/tumaa/Delani-studio)
 
 * step 2: Open the repo using your text editor e.g atom or code
 
