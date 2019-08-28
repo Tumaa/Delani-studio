@@ -8,9 +8,9 @@
 
 ## Behaviour Driven Development(BDD)
 
-| feature:what we do , input click on the icons output one can toggle between the icons and their       description
-| feature porfolio: input hover over the content output white box appears with then name of the         project inside
-| feature Mail: input input your data in the fields output pop up message appears and thanks the        user for reaching out.
+* feature:what we do , input click on the icons output one can toggle between the icons and their       description
+* feature porfolio: input hover over the content output white box appears with then name of the         project inside
+* feature Mail: input input your data in the fields output pop up message appears and thanks the        user for reaching out.
 
 ## Installing
    To view the website go to click here
